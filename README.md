@@ -1,10 +1,16 @@
 # cython-python-sort-algorithms
 Comparacion de rendimiento Cython-Python entre algoritmos de ordenamiento bubble sort y selector sort<p>
-<b>Problema</b>
+<b>¿Como ejecutar Linux?</b>
+<p>1. Abrir terminal e instalar build-essential, python3 y cython3
+<p>2. make all
+<p>3. python performance.py<p>
+  En performance.py(linea 14) modificas la cantidad de datos que tiene la lista
+<p>4. automaticamente creara un csv donde se tendra los datos de la ejecucion
+<p><b>Problema</b><p>
 Se tiene una lista de numeros decimales entre -1000 y 1000 desorganizada, la cual se requiere organizar, para esta tarea se utilizaran los algoritmos de ordenamiento bubble sort y selector sort,se realizaron tres baterias de experimentos variando el tamaño de la lista:
-- 10000 datos
-- 20000 datos
-- 30000 datos
+<p>- 10000 datos
+<p>- 20000 datos
+<p>- 30000 datos
 
 <b>Bubble sort</b>
 Complejidad: O(n^2)
