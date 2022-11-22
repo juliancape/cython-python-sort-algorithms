@@ -1,5 +1,7 @@
 # cython-python-sort-algorithms
 Comparacion de rendimiento Cython-Python entre algoritmos de ordenamiento bubble sort y selector sort<p>
+<b>PARA MEJOR VISUALIZACION RESULTADOS</b><p>
+https://deepnote.com/@juliancape-c238/cython-python-6494161e-dfb7-4550-b8f1-42f2b6ae9db9    <p>
 <b>¿Como ejecutar Linux?</b>
 <p>1. Abrir terminal e instalar build-essential, python3 y cython3
 <p>2. make all
